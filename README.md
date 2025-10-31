@@ -1,16 +1,74 @@
-# toku_app
+# 🇯🇵 Toku App
 
-A language learning app.
+Toku is a simple Japanese learning app built with Flutter.  
+It helps beginners learn basic Japanese words and phrases through sound and visuals — divided into four main categories:  
+📘 Numbers, 👨‍👩‍👧‍👦 Family Members, 🌈 Colors, and 💬 Phrases.
 
-## Getting Started
+---
+✨ Features
+🎧 Audio pronunciation for each word or phrase
 
-This project is a starting point for a Flutter application.
+🧭 Smooth navigation between categories
 
-A few resources to get you started if this is your first Flutter project:
+🪶 Clean and minimal user interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚡ Built using Flutter and audioplayers package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💡 Great for practicing Flutter UI, state management, and sound integration
+
+🛠️ Technologies Used
+Flutter (UI framework)
+
+Dart (programming language)
+
+audioplayers (for sound playback)
+
+Material Design
+
+🚀 How to Run the Project
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/Ziad_Wahdan/Toku_App.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd toku_app
+Get all dependencies:
+
+bash
+Copy code
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
+📂 Project Structure
+css
+Copy code
+lib/
+│
+├── Models/
+│   └── model.dart
+│
+├── screens/
+│   ├── home_screen.dart
+│   ├── numbers_screen.dart
+│   ├── family_members_screen.dart
+│   ├── colors_screen.dart
+│   └── phrases_screen.dart
+│
+├── widgets.dart
+│  
+│
+└── main.dart
+About
+This project was created for educational purposes —
+to explore Flutter navigation, widget composition, and asset management.
+It can be expanded later with more lessons, quizzes, or progress tracking.
+
+Author: Ziad Wahdan
+LinkedIn Profile (replace with your actual link)
