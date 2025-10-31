@@ -1,8 +1,8 @@
 # 🇯🇵 Toku App
 
-Toku is a simple Japanese learning app built with Flutter.  
+**Toku** is a simple Japanese learning app built with **Flutter**.  
 It helps beginners learn basic Japanese words and phrases through sound and visuals — divided into four main categories:  
-📘 Numbers, 👨‍👩‍👧‍👦 Family Members, 🌈 Colors, and 💬 Phrases.
+📘 **Numbers**, 👨‍👩‍👧‍👦 **Family Members**, 🌈 **Colors**, and 💬 **Phrases**.
 
 ---
 ✨ Features
@@ -71,4 +71,4 @@ to explore Flutter navigation, widget composition, and asset management.
 It can be expanded later with more lessons, quizzes, or progress tracking.
 
 Author: Ziad Wahdan
-LinkedIn Profile (replace with your actual link)
+LinkedIn Profile (www.linkedin.com/in/ziad-wahdan-764791314)
